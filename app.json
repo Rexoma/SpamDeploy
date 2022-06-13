@@ -100,9 +100,26 @@
         },
         "LOGGER": {
             "description": "Chat Id Of Your Bot Logger",
-          "value": "",
-          "required": true  
+            "value": "",
+            "required": true  
         }
+        "OTHER_INSTALLS": {
+           "description": "If you need install packages for running your app(Python is pre-installed).[Space in between each package]",
+           "value": "None",
+           "required": false
+    },
+    "REPO_URL": {
+          "description": " Please Do Not Change This Value Else You get Error.",
+          "value": "https://github.com/Rexoma/SpamBot.git"
+    },
+    "PYTHON_FILE": {
+      "description": "Name of the python file that you need to run.DoNot Edit If You Don't Know How To Do It",
+      "value": "-m ReXoSpam"
+    },
+     "OTHER_CMD": {
+      "description": "If you need to run any bash command other than python specify here",
+      "value": "None",
+      "required": false
     },
   "addons": [
     {
