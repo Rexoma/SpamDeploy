@@ -20,7 +20,7 @@
       },
     "REPO_URL": {
          "description": "URL of the REPO.Please Do Not Edit.",
-         "value": "https://github.com/TeamRexoma/Innexia"
+         "value": "https://github.com/Rexoma/SpamBot"
       },
     "PYTHON_FILE": {
          "description": "Name of the python file that you need to run. do not change else error",
