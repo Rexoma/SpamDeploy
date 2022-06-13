@@ -19,12 +19,12 @@
          "required": false
       },
     "REPO_URL": {
-         "description": "URL of the REPO that you want to deploy.",
+         "description": "URL of the REPO.Please Do Not Edit.",
          "value": "https://github.com/TeamRexoma/Innexia"
       },
     "PYTHON_FILE": {
-         "description": "Name of the python file that you need to run. [use -m if you need to run __main__.py from a folder]",
-         "value": "-m Innexia"
+         "description": "Name of the python file that you need to run. do not change else error",
+         "value": "-m ReXoSpam"
       },
       "OTHER_CMD": {
          "description": "If you need to run any bash command other than python specify here",
